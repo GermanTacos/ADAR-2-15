@@ -1,0 +1,48 @@
+<AddFiles directory="assets">
+
+	<!-- WEAPON PARTS -->
+	
+	<unit_npc	 path="units/mods/weapons/wpn_fps_ass_adar/wpn_fps_ass_adar"/>
+	
+	<!-- ADAR PARTS -->
+	
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_adar_barrel_pts/barrel_adar"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_adar_handguard_pts/handguard_adar"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/receiver_lower_adar"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/receiver_upper_adar"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/stock_adar"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_barrel_pts/wpn_fps_ass_adar_ba_std"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_handguard_pts/wpn_fps_ass_adar_hg_std"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_lr_std"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_ur_std"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_bo_std"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_tr_std"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_dc_std"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_std"/>
+	
+	<!-- COLT PARTS -->
+	
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_adar_barrel_pts/gas_block_colt"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_adar_muzzle_pts/flash_colt"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/charge_colt"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/buffer_tube_colt"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_barrel_pts/wpn_fps_ass_adar_gb_colt"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_muzzle_pts/wpn_fps_ass_adar_fh_colt"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_ch_colt"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_bt_colt"/>
+	
+	<!-- MBUS PARTS -->
+	
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_adar_shared_pts/sight_mbus"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_shared_pts/wpn_fps_ass_adar_ro_mbus"/>
+	
+	<!-- MAG PARTS -->
+	
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_adar_mag_pts/mag_pmag_10"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_mag_pts/wpn_fps_ass_adar_m_pmag_10"/>
+
+</AddFiles>

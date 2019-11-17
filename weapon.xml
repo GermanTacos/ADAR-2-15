@@ -1,0 +1,117 @@
+<table>
+
+	<Weapon unlock_level="15">
+		<weapon id="adar" based_on="tti" damage_near="25000" damage_far="40000" CLIP_AMMO_MAX="10" NR_CLIPS_MAX="8" can_shoot_through_shield="false" can_shoot_through_enemy="false" can_shoot_through_wall="false" tactical_reload="1" texture_bundle_folder="mods" global_value="adar">
+			<stats damage="102" spread="14" spread_moving="13" recoil="16" concealment="15" suppression="8"/>
+			<fire_mode_data fire_rate="0.1"/>
+			<AMMO_PICKUP>
+					<value_node value="2.1"/>
+					<value_node value="4.2"/>
+			</AMMO_PICKUP>
+			<!-- <timers reload_not_empty="2.3" reload_empty="3.4" unequip="0.5" equip="0.7"/> -->
+			<!-- <sounds fire="ak47_fire_single" fire_single="ak47_fire_single" fire_auto="ak47_fire_single" use_fix="true">  -->
+				<!-- <reload wp_flint_mag_out="wp_heffy_762_mag_out" wp_flint_mag_in="wp_heffy_762_mag_in" wp_flint_cock_pull="wp_heffy_762_cock_pull" wp_flint_cock_release="wp_heffy_762_cock_release"/> -->
+			<!-- </sounds> -->
+			<animations reload_name_id="tti" equip_id="equip_tti" recoil_steelsight="true"/>
+		</weapon>
+
+		<factory id="wpn_fps_ass_adar" unit="units/mods/weapons/wpn_fps_ass_adar/wpn_fps_ass_adar" >
+			
+			<animations fire="recoil" reload="reload" reload_not_empty="reload_not_empty" fire_steelsight="recoil"/>
+			
+			<optional_types>
+				<value_node value="barrel"/>
+				<value_node value="barrel_ext"/>
+				<value_node value="gadget"/>
+			</optional_types>
+			
+			<adds/>
+			<override/>	
+			
+			<default_blueprint>
+			
+				<value_node value="wpn_fps_ass_adar_ba_std"/>
+				<value_node value="wpn_fps_ass_adar_lr_std"/>
+				<value_node value="wpn_fps_ass_adar_ur_std"/>
+				<value_node value="wpn_fps_ass_adar_tr_std"/>
+				<value_node value="wpn_fps_ass_adar_dc_std"/>
+				<value_node value="wpn_fps_ass_adar_st_std"/>
+				<value_node value="wpn_fps_ass_adar_hg_std"/>
+				<value_node value="wpn_fps_ass_adar_bo_std"/>
+				
+				<value_node value="wpn_fps_ass_adar_ch_colt"/>
+				<!-- <value_node value="wpn_fps_ass_adar_bt_colt"/> -->
+				<value_node value="wpn_fps_ass_adar_gb_colt"/>
+				<value_node value="wpn_fps_ass_adar_fh_colt"/>
+				
+				<value_node value="wpn_fps_ass_adar_ro_mbus"/>
+				
+				<value_node value="wpn_fps_ass_adar_m_pmag_10"/>
+				
+			</default_blueprint>
+
+			<uses_parts>
+			
+				<value_node value="wpn_fps_ass_adar_ba_std"/>
+				<value_node value="wpn_fps_ass_adar_lr_std"/>
+				<value_node value="wpn_fps_ass_adar_ur_std"/>
+				<value_node value="wpn_fps_ass_adar_st_std"/>
+				<value_node value="wpn_fps_ass_adar_hg_std"/>
+				<value_node value="wpn_fps_ass_adar_bo_std"/>
+				<value_node value="wpn_fps_ass_adar_tr_std"/>
+				<value_node value="wpn_fps_ass_adar_dc_std"/>
+				
+				<value_node value="wpn_fps_ass_adar_ch_colt"/>
+				<!-- <value_node value="wpn_fps_ass_adar_bt_colt"/> -->
+				<value_node value="wpn_fps_ass_adar_gb_colt"/>
+				<value_node value="wpn_fps_ass_adar_fh_colt"/>
+				
+				<value_node value="wpn_fps_ass_adar_ro_mbus"/>
+				
+				<value_node value="wpn_fps_ass_adar_m_pmag_10"/>
+				
+				<value_node value="wpn_fps_upg_ns_ass_smg_large"/>
+				<value_node value="wpn_fps_upg_ns_ass_smg_medium"/>
+				<value_node value="wpn_fps_upg_ns_ass_smg_small"/>
+				<value_node value="wpn_fps_upg_ns_ass_smg_firepig"/>
+				<value_node value="wpn_fps_upg_ns_ass_smg_stubby"/>
+				<value_node value="wpn_fps_upg_ns_ass_smg_tank"/>
+				<value_node value="wpn_fps_upg_ns_ass_pbs1"/>
+				
+				<value_node value="wpn_fps_upg_ass_ns_jprifles"/>
+				<value_node value="wpn_fps_upg_ass_ns_linear"/>
+				<value_node value="wpn_fps_upg_ass_ns_surefire"/>
+				<value_node value="wpn_fps_upg_ass_ns_battle"/>
+				<value_node value="wpn_fps_upg_fl_ass_smg_sho_peqbox"/>
+				<value_node value="wpn_fps_upg_fl_ass_smg_sho_surefire"/>
+				<value_node value="wpn_fps_upg_fl_ass_peq15"/>
+				<value_node value="wpn_fps_upg_fl_ass_laser"/>
+				<value_node value="wpn_fps_upg_fl_ass_utg"/>
+				
+				<value_node value="wpn_fps_upg_o_reflex"/>
+				<value_node value="wpn_fps_upg_o_aimpoint"/>
+				<value_node value="wpn_fps_upg_o_aimpoint_2"/>
+				<value_node value="wpn_fps_upg_o_docter"/>
+				<value_node value="wpn_fps_upg_o_eotech"/>
+				<value_node value="wpn_fps_upg_o_t1micro"/>
+				<value_node value="wpn_fps_upg_o_cmore"/>
+				<value_node value="wpn_fps_upg_o_acog"/>
+				<value_node value="wpn_fps_upg_o_cs"/>
+				<value_node value="wpn_fps_upg_o_specter"/>
+				<value_node value="wpn_fps_upg_o_eotech_xps"/>
+				<value_node value="wpn_fps_upg_o_rx01"/>
+				<value_node value="wpn_fps_upg_o_rx30"/>
+				<value_node value="wpn_fps_upg_o_spot"/>
+				
+			</uses_parts>
+			
+		</factory>
+		<stance>
+			<steelsight>
+				<shoulders rotation="-0.000436332 -1.90386e-007 -0.000436332 -1" translation="-10.247 0.696 3.77"/>
+			</steelsight>
+		</stance>
+		
+	</Weapon>
+
+</table>

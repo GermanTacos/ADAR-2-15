@@ -1,0 +1,6 @@
+<materials version="3" group="weapon_tti">
+	<material name="tti_receiver_lowerr" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:NORMALMAP_UV1" version="2">
+		<diffuse_texture file="units/mods/weapons/wpn_fps_ass_adar_shared_pts/sight_mbus_df" />
+		<bump_normal_texture file="units/mods/weapons/wpn_fps_ass_adar_shared_pts/sight_mbus_nm" />
+	</material>
+</materials>

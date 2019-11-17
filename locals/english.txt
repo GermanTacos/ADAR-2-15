@@ -1,0 +1,11 @@
+{
+
+	"menu_l_global_value_adar" : "This is a custom weapon!",
+	
+	"bm_w_adar" : "ADAR 2-15",
+	
+	"bm_wp_wpn_fps_ass_adar_lr_blank" : "Blank Receiver",
+	
+	"bm_wp_end" : "End"
+	
+}

@@ -1,0 +1,20 @@
+<table name="ADAR 2-15" priority="7" image="guis/adar" color="Color(0.8, 0.2, 0.8)">
+
+	<Localization directory="locals" default="english.txt"/>
+	
+	<GlobalValue id="adar" color="Color(1, 0.522, 0.106)"/>
+	
+<!--<AssetUpdates id="00000" version="1.0" provider="modworkshop"/>-->
+	
+	<XML path="add.xml"/>
+	<XML path="sound.xml"/>
+	<XML path="weapon.xml"/>
+	<XML path="weaponmod.xml"/>
+	
+	<Hooks directory="hooks">
+	<!--<hook file="playertweakdata.lua" source_file="lib/tweak_data/playertweakdata"/> -->
+	<!--<hook file="weaponfactorytweakdata.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/> -->
+	<!--<hook file="weapontweakdata.lua" source_file="lib/tweak_data/weapontweakdata"/> -->
+	</Hooks>
+	
+</table>

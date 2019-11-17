@@ -1,0 +1,6 @@
+<dynamic_object>
+	<diesel materials="units/mods/weapons/wpn_fps_ass_adar_muzzle_pts/wpn_fps_ass_adar_fh_colt" orientation_object="rp_wpn_fps_upg_ass_ns_battle" />
+	<graphics>
+		<object name="g_battle" enabled="true" />
+	</graphics>
+</dynamic_object>

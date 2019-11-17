@@ -1,0 +1,41 @@
+<table>
+	
+	<!-- ADAR -->
+	
+	<WeaponMod id="wpn_fps_ass_adar_ba_std"  	based_on="wpn_fps_snp_tti_b_standard"		   	type="barrel"			unit="units/mods/weapons/wpn_fps_ass_adar_barrel_pts/wpn_fps_ass_adar_ba_std"    	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_adar_lr_std"  	based_on="wpn_fps_snp_tti_body_receiverlower"	type="receiver_lower"	unit="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_lr_std"   	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_adar_ur_std"  	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="receiver_upper" 	unit="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_ur_std"   	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_adar_tr_std"  	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="trigger"		 	unit="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_tr_std"   	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_adar_dc_std"  	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="dust_cover"	 	unit="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_dc_std"   	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_adar_st_std"  	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="stock"			unit="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_std"		texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_adar_hg_std"  	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="handguard"		unit="units/mods/weapons/wpn_fps_ass_adar_handguard_pts/wpn_fps_ass_adar_hg_std"    texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_adar_bo_std"  	based_on="wpn_fps_snp_tti_bolt_standard"	   	type="bolt"		 	 	unit="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_bo_std"   	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<!-- COLT -->
+	
+	<WeaponMod id="wpn_fps_ass_adar_gb_colt"	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="gas_block"		unit="units/mods/weapons/wpn_fps_ass_adar_barrel_pts/wpn_fps_ass_adar_gb_colt"   	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_adar_bt_colt" 	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="buffer_tube"	 	unit="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_bt_colt"   	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_adar_ch_colt" 	based_on="wpn_fps_snp_tti_dh_standard"		   	type="charge_handle"	unit="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_ch_colt"	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_adar_fh_colt" 	based_on="wpn_fps_upg_ass_ns_battle"		   	type="barrel_ext"	 	unit="units/mods/weapons/wpn_fps_ass_adar_muzzle_pts/wpn_fps_ass_adar_fh_colt"	  	texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
+		<stats concealment="0" damage="0" spread="0" recoil="0"/>
+	</WeaponMod>
+	
+	<!-- MBUS -->
+	
+	<WeaponMod id="wpn_fps_ass_adar_ro_mbus"	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="iron_rear"		unit="units/mods/weapons/wpn_fps_ass_adar_shared_pts/wpn_fps_ass_adar_ro_mbus"   	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<!-- MAGAZINES -->
+	
+	<WeaponMod id="wpn_fps_ass_adar_m_pmag_10"	based_on="wpn_fps_snp_tti_m_standard"			type="magazine"			unit="units/mods/weapons/wpn_fps_ass_adar_mag_pts/wpn_fps_ass_adar_m_pmag_10"		texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+</table>

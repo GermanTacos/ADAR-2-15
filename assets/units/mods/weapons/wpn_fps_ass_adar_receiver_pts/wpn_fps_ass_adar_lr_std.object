@@ -1,0 +1,6 @@
+<dynamic_object>
+	<diesel materials="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_lr_std" orientation_object="rp_wpn_fps_snp_tti_body_receiverlower" />
+	<graphics>
+		<object name="g_receiver_lower" enabled="true" />
+	</graphics>
+</dynamic_object>

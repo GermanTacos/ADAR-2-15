@@ -1,0 +1,26 @@
+<dynamic_object>
+	<diesel materials="units/mods/weapons/wpn_fps_ass_adar_mag_pts/wpn_fps_ass_adar_m_pmag_10" orientation_object="rp_wpn_fps_snp_tti_m_standard" />
+	<graphics>
+		<object name="g_mag" enabled="true" />
+		<object name="g_mag_trans" enabled="false" />
+		
+		<object name="g_bullet_1" enabled="false" />
+		<object name="g_bullet_2" enabled="false" />
+		<object name="g_bullet_3" enabled="false" />
+		<object name="g_bullet_6" enabled="false" />
+		<object name="g_bullet_7" enabled="false" />
+		<object name="g_bullet_8" enabled="false" />
+		<object name="g_bullet_9" enabled="false" />
+		<object name="g_bullet_10" enabled="false" />
+		<object name="g_bullet_11" enabled="false" />
+		<object name="g_bullet_12" enabled="false" />
+		<object name="g_bullet_13" enabled="false" />
+		<object name="g_bullet_14" enabled="false" />
+		<object name="g_bullet_15" enabled="false" />
+		<object name="g_bullet_16" enabled="false" />
+		<object name="g_bullet_17" enabled="false" />
+		<object name="g_bullet_18" enabled="false" />
+		<object name="g_bullet_19" enabled="false" />
+		<object name="g_bullet_20" enabled="false" />
+	</graphics>
+</dynamic_object>
