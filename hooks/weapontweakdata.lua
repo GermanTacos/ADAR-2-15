@@ -5,7 +5,7 @@ if ( self.adar ) then
 	self:SetupAttachmentPoint("adar", {
 		name = "a_ns", 
         base_a_obj = "a_ns", 
-        position = Vector3( 0, 1.9, -0.1 ), 
+        position = Vector3( 0, -4, 0.2 ), -- -16
         rotation = Rotation( 0, 0, 0 ) 
 	})
 	
