@@ -39,6 +39,7 @@
 				<value_node value="wpn_fps_ass_adar_hg_std"/>
 				<value_node value="wpn_fps_ass_adar_bo_std"/>
 				
+				<value_node value="wpn_fps_ass_adar_pg_a2"/>
 				<value_node value="wpn_fps_ass_adar_ch_colt"/>
 				<value_node value="wpn_fps_ass_adar_bt_colt"/>
 				<value_node value="wpn_fps_ass_adar_gb_colt"/>
@@ -61,12 +62,15 @@
 				<value_node value="wpn_fps_ass_adar_hg_std"/>
 				<value_node value="wpn_fps_ass_adar_bo_std"/>
 				
+				<value_node value="wpn_fps_ass_adar_pg_a2"/>
 				<value_node value="wpn_fps_ass_adar_ch_colt"/>
 				<value_node value="wpn_fps_ass_adar_bt_colt"/>
 				<value_node value="wpn_fps_ass_adar_gb_colt"/>
 				<value_node value="wpn_fps_ass_adar_fh_colt"/>
 				
 				<value_node value="wpn_fps_ass_adar_ro_mbus"/>
+				
+				<value_node value="wpn_fps_ass_adar_st_ak12"/>
 				
 				<value_node value="wpn_fps_ass_adar_m_pmag_10"/>
 				

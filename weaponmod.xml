@@ -16,6 +16,9 @@
 		<texture_variants>
 			<black name_id="bm_w_paint_wood_black" material_config="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_std_black"/>
 		</texture_variants>
+		<override>
+			<wpn_fps_ass_adar_pg_a2 unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+		</override>
 	</WeaponMod>
 	
 	<WeaponMod id="wpn_fps_ass_adar_hg_std"  	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="handguard"		unit="units/mods/weapons/wpn_fps_ass_adar_handguard_pts/wpn_fps_ass_adar_hg_std"    texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
@@ -32,6 +35,8 @@
 	
 	<WeaponMod id="wpn_fps_ass_adar_bt_colt" 	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="buffer_tube"	 	unit="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_bt_colt"   	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
+	<WeaponMod id="wpn_fps_ass_adar_pg_a2"		based_on="wpn_fps_snp_tti_body_receiverlower" 	type="grip"				unit="units/mods/weapons/wpn_fps_ass_adar_grip_pts/wpn_fps_ass_adar_pg_a2"   		texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
 	<WeaponMod id="wpn_fps_ass_adar_ch_colt" 	based_on="wpn_fps_snp_tti_dh_standard"		   	type="charge_handle"	unit="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_ch_colt"	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
 	<WeaponMod id="wpn_fps_ass_adar_fh_colt" 	based_on="wpn_fps_upg_ass_ns_battle"		   	type="barrel_ext"	 	unit="units/mods/weapons/wpn_fps_ass_adar_muzzle_pts/wpn_fps_ass_adar_fh_colt"	  	texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
@@ -41,6 +46,12 @@
 	<!-- MBUS -->
 	
 	<WeaponMod id="wpn_fps_ass_adar_ro_mbus"	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="iron_rear"		unit="units/mods/weapons/wpn_fps_ass_adar_shared_pts/wpn_fps_ass_adar_ro_mbus"   	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<!-- ATTACHMENTS -->
+	
+	<WeaponMod id="wpn_fps_ass_adar_st_ak12"  	based_on="wpn_fps_snp_tti_s_vltor" 				type="stock"			unit="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_ak12"		texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<pcs/>
+	</WeaponMod>
 	
 	<!-- MAGAZINES -->
 	

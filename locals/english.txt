@@ -4,7 +4,8 @@
 	
 	"bm_w_adar" : "ADAR 2-15",
 	
-	"bm_wp_wpn_fps_ass_adar_lr_blank" : "Blank Receiver",
+	"bm_wp_wpn_fps_ass_adar_st_ak12" : "AK-12 Stock",
+	"bm_wp_wpn_fps_ass_adar_pg_a2" 	 : "A2 Grip",
 	
 	"bm_w_paint_wood_black"		 : "Black Laminate Wood",
 	"bm_w_paint_wood_black_desc" : "Standard Wood Furniture with black finish for extra tacticool.",

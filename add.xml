@@ -35,17 +35,25 @@
 	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_adar_muzzle_pts/flash_colt"/>
 	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/charge_colt"/>
 	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/buffer_tube_colt"/>
+	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_adar_grip_pts/pistol_grip_a2"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_barrel_pts/wpn_fps_ass_adar_gb_colt"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_muzzle_pts/wpn_fps_ass_adar_fh_colt"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_ch_colt"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_bt_colt"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_grip_pts/wpn_fps_ass_adar_pg_a2"/>
 	
 	<!-- MBUS PARTS -->
 	
 	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_adar_shared_pts/sight_mbus"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_shared_pts/wpn_fps_ass_adar_ro_mbus"/>
+	
+	<!-- ATTACHMENT PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/stock_ak12"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_ak12"/>
 	
 	<!-- MAG PARTS -->
 	
