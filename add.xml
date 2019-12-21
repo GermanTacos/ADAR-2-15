@@ -21,6 +21,11 @@
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_dc_std"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_std"/>
 	
+	<material_config path="units/mods/weapons/wpn_fps_ass_adar_handguard_pts/wpn_fps_ass_adar_hg_std_black"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_adar_handguard_pts/wpn_fps_ass_adar_hg_std_black_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_std_black"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_std_black_thq"/>
+	
 	<!-- COLT PARTS -->
 	
 	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_adar_barrel_pts/gas_block_colt"/>

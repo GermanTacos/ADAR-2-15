@@ -6,6 +6,8 @@
 	
 	"bm_wp_wpn_fps_ass_adar_lr_blank" : "Blank Receiver",
 	
+	"bm_w_paint_wood_black" : "Black Laminate Wood",
+	
 	"bm_wp_end" : "End"
 	
 }
