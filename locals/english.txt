@@ -6,7 +6,8 @@
 	
 	"bm_wp_wpn_fps_ass_adar_lr_blank" : "Blank Receiver",
 	
-	"bm_w_paint_wood_black" : "Black Laminate Wood",
+	"bm_w_paint_wood_black"		 : "Black Laminate Wood",
+	"bm_w_paint_wood_black_desc" : "Standard Wood Furniture with black finish for extra tacticool.",
 	
 	"bm_wp_end" : "End"
 	
