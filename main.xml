@@ -13,7 +13,7 @@
 	
 	<Hooks directory="hooks">
 	<!--<hook file="playertweakdata.lua" source_file="lib/tweak_data/playertweakdata"/> -->
-	<!--<hook file="weaponfactorytweakdata.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/> -->
+		<hook file="weaponfactorytweakdata.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
 		<hook file="weapontweakdata.lua" source_file="lib/tweak_data/weapontweakdata"/>
 	</Hooks>
 	

@@ -29,6 +29,12 @@
 	
 	<WeaponMod id="wpn_fps_ass_adar_bo_std"  	based_on="wpn_fps_snp_tti_bolt_standard"	   	type="bolt"		 	 	unit="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_bo_std"   	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
+	<WeaponMod id="wpn_fps_ass_adar_o_dummy" 	  based_on="wpn_fps_snp_tti_body_receiverlower" type="sight" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" drop="false" is_a_unlockable="false">
+		<stance_mod>
+			<wpn_fps_ass_adar rotation="0.00174533 7.61543e-007 -0.000436332 -0.999998" translation="0.04 3 0.32"/>
+		</stance_mod>
+	</WeaponMod>
+
 	<!-- COLT -->
 	
 	<WeaponMod id="wpn_fps_ass_adar_gb_colt"	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="gas_block"		unit="units/mods/weapons/wpn_fps_ass_adar_barrel_pts/wpn_fps_ass_adar_gb_colt"   	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
