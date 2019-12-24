@@ -12,7 +12,7 @@
 	
 	<WeaponMod id="wpn_fps_ass_adar_dc_std"  	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="dust_cover"	 	unit="units/mods/weapons/wpn_fps_ass_adar_receiver_pts/wpn_fps_ass_adar_dc_std"   	texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_adar_st_std"  	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="stock"			unit="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_std"		texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
+	<WeaponMod id="wpn_fps_ass_adar_st_std"  	based_on="wpn_fps_snp_tti_s_vltor" 				type="stock"			unit="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_std"		texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
 		<texture_variants>
 			<black name_id="bm_w_paint_wood_black" material_config="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_std_black"/>
 		</texture_variants>
@@ -56,6 +56,22 @@
 	<!-- ATTACHMENTS -->
 	
 	<WeaponMod id="wpn_fps_ass_adar_st_ak12"  	based_on="wpn_fps_snp_tti_s_vltor" 				type="stock"			unit="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_ak12"		texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<stats concealment="2" recoil="1" spread="-2"/>
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_adar_st_hera"  	based_on="wpn_fps_snp_tti_s_vltor" 				type="stock"			unit="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_hera"		texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<stats concealment="1" recoil="-1"/>
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_adar_pg_hera"  	based_on="wpn_fps_snp_tti_g_grippy" 			type="grip"				unit="units/mods/weapons/wpn_fps_ass_adar_grip_pts/wpn_fps_ass_adar_pg_hera"		texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<stats concealment="0" recoil="1"/>
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_adar_hg_ris"  	based_on="wpn_fps_snp_tti_body_receiverlower" 	type="handguard"		unit="units/mods/weapons/wpn_fps_ass_adar_handguard_pts/wpn_fps_ass_adar_hg_ris"	texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<stats concealment="1" recoil="-2" spread="1"/>
 		<pcs/>
 	</WeaponMod>
 	

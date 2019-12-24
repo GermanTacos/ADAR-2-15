@@ -55,6 +55,18 @@
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_ak12"/>
 	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/stock_hera"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_stock_pts/wpn_fps_ass_adar_st_hera"/>
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_adar_grip_pts/pistol_grip_hera"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_grip_pts/wpn_fps_ass_adar_pg_hera"/>
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_adar_handguard_pts/handguard_dd_ris"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_handguard_pts/wpn_fps_ass_adar_hg_ris"/>
+	
 	<!-- MAG PARTS -->
 	
 	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_adar_mag_pts/mag_pmag_10"/>

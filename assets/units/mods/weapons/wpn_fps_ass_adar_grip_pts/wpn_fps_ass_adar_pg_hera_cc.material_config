@@ -1,7 +1,7 @@
 <materials version="3" group="weapon_tti">
-	<material name="tti_stock" render_template="generic_customizable:CUBE_ENVIRONMENT_MAPPING:DECAL_STICKER_UV2:DEPTH_SCALING:DIFFUSE_TEXTURE:GRADIENTMAP:NORMALMAP:PATTERN_GRADIENTMAP:PATTERN_GRADIENTMAP_ANGLE_OFFSET:PATTERN_UV2:WEAR_TEAR_MASKING" version="2">
-		<diffuse_texture file="units/mods/weapons/wpn_fps_ass_adar_stock_pts/stock_adar_cc"/>
-		<bump_normal_texture file="units/mods/weapons/wpn_fps_ass_adar_stock_pts/stock_adar_nm" />
+	<material name="tti_grip" render_template="generic_customizable:CUBE_ENVIRONMENT_MAPPING:DECAL_STICKER_UV2:DEPTH_SCALING:DIFFUSE_TEXTURE:GRADIENTMAP:NORMALMAP:PATTERN_GRADIENTMAP:PATTERN_GRADIENTMAP_ANGLE_OFFSET:PATTERN_UV2:WEAR_TEAR_MASKING" version="2">
+		<diffuse_texture file="units/mods/weapons/wpn_fps_ass_adar_grip_pts/pistol_grip_hera_cc"/>
+		<bump_normal_texture file="units/mods/weapons/wpn_fps_ass_adar_grip_pts/pistol_grip_hera_nm" />
 		<diffuse_layer1_texture file="units/payday2_cash/safes/default/base_gradient/base_default_df"/>
 		<diffuse_layer2_texture file="units/payday2_cash/safes/default/pattern_gradient/gradient_default_df"/>
 		<diffuse_layer0_texture file="units/payday2_cash/safes/default/pattern/pattern_default_df"/>

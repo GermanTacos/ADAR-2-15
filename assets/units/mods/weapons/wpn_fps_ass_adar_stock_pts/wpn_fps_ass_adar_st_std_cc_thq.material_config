@@ -1,5 +1,5 @@
 <materials version="3" group="weapon_tti">
-	<material name="tti_receiver_lowerr" render_template="generic_customizable:CUBE_ENVIRONMENT_MAPPING:DECAL_STICKER_UV2:DIFFUSE_TEXTURE:GRADIENTMAP:NORMALMAP:PATTERN_GRADIENTMAP:PATTERN_GRADIENTMAP_ANGLE_OFFSET:PATTERN_UV2:WEAR_TEAR_MASKING" version="2">
+	<material name="tti_stock" render_template="generic_customizable:CUBE_ENVIRONMENT_MAPPING:DECAL_STICKER_UV2:DIFFUSE_TEXTURE:GRADIENTMAP:NORMALMAP:PATTERN_GRADIENTMAP:PATTERN_GRADIENTMAP_ANGLE_OFFSET:PATTERN_UV2:WEAR_TEAR_MASKING" version="2">
 		<diffuse_texture file="units/mods/weapons/wpn_fps_ass_adar_stock_pts/stock_adar_cc" mip="1"/>
 		<bump_normal_texture file="units/mods/weapons/wpn_fps_ass_adar_stock_pts/stock_adar_nm"  mip="1"/>
 		<diffuse_layer1_texture file="units/payday2_cash/safes/default/base_gradient/base_default_df"/>
