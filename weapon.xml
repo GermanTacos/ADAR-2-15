@@ -8,6 +8,9 @@
 					<value_node value="2.1"/>
 					<value_node value="4.2"/>
 			</AMMO_PICKUP>
+			<categories>
+				<value_node value="assault_rifle"/>
+			</categories>
 			<!-- <timers reload_not_empty="2.3" reload_empty="3.4" unequip="0.5" equip="0.7"/> -->
 			<!-- <sounds fire="ak47_fire_single" fire_single="ak47_fire_single" fire_auto="ak47_fire_single" use_fix="true">  -->
 				<!-- <reload wp_flint_mag_out="wp_heffy_762_mag_out" wp_flint_mag_in="wp_heffy_762_mag_in" wp_flint_cock_pull="wp_heffy_762_cock_pull" wp_flint_cock_release="wp_heffy_762_cock_release"/> -->
@@ -15,7 +18,7 @@
 			<animations reload_name_id="tti" equip_id="equip_tti" recoil_steelsight="true"/>
 		</weapon>
 
-		<factory id="wpn_fps_ass_adar" unit="units/mods/weapons/wpn_fps_ass_adar/wpn_fps_ass_adar" stock_adapter="wpn_fps_ass_adar_hg_std">
+		<factory id="wpn_fps_ass_adar" unit="units/mods/weapons/wpn_fps_ass_adar/wpn_fps_ass_adar" stock_adapter="wpn_fps_ass_adar_bt_colt">
 			
 			<animations fire="recoil" reload="reload" reload_not_empty="reload_not_empty" fire_steelsight="recoil"/>
 			
