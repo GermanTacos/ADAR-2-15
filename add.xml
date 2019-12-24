@@ -76,5 +76,10 @@
 	<!-- ICONS -->
 	
 	<texture 		 path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/adar"/>
+	
+	<texture 		 path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_adar_st_ak12"/>
+	<texture 		 path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_adar_st_hera"/>
+	<texture 		 path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_adar_pg_hera"/>
+	<texture 		 path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_adar_hg_ris"/>
 
 </AddFiles>
