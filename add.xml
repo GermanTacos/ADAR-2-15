@@ -60,5 +60,9 @@
 	<df_nm 	 path="units/mods/weapons/wpn_fps_ass_adar_mag_pts/mag_pmag_10"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_adar_mag_pts/wpn_fps_ass_adar_m_pmag_10"/>
+	
+	<!-- ICONS -->
+	
+	<texture 		 path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/adar"/>
 
 </AddFiles>
