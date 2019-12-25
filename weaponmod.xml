@@ -86,6 +86,8 @@
 	
 	<!-- MAGAZINES -->
 	
-	<WeaponMod id="wpn_fps_ass_adar_m_pmag_10"	based_on="wpn_fps_snp_tti_m_standard"			type="magazine"			unit="units/mods/weapons/wpn_fps_ass_adar_mag_pts/wpn_fps_ass_adar_m_pmag_10"		texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_ass_adar_m_pmag_10"	based_on="wpn_fps_snp_tti_m_standard"			type="magazine"			unit="units/mods/weapons/wpn_fps_ass_adar_mag_pts/wpn_fps_ass_adar_m_pmag_10"		texture_bundle_folder="mods" drop="false" is_a_unlockable="false">
+		<bullet_objects prefix="g_bullet_" amount="0"/>
+	</WeaponMod>
 	
 </table>
