@@ -11,8 +11,8 @@
 			<categories>
 				<value_node value="assault_rifle"/>
 			</categories>
+			<sounds fire="adar_fire" fire_single="adar_fire" fire_auto="adar_fire" use_fix="true"/>  
 			<!-- <timers reload_not_empty="2.3" reload_empty="3.4" unequip="0.5" equip="0.7"/> -->
-			<!-- <sounds fire="ak47_fire_single" fire_single="ak47_fire_single" fire_auto="ak47_fire_single" use_fix="true">  -->
 				<!-- <reload wp_flint_mag_out="wp_heffy_762_mag_out" wp_flint_mag_in="wp_heffy_762_mag_in" wp_flint_cock_pull="wp_heffy_762_cock_pull" wp_flint_cock_release="wp_heffy_762_cock_release"/> -->
 			<!-- </sounds> -->
 			<animations reload_name_id="tti" equip_id="equip_tti" recoil_steelsight="true"/>
@@ -123,5 +123,11 @@
 		</stance>
 
 	</Weapon>
-
+	
+	<Sounds directory="assets\sounds">
+		<redirect id="adar_fire" to="tti_fire" prefix="regular"/>
+		<sound id="adar_fire" path="adar_sup.ogg"  prefix="suppressed_a"/>
+		<sound id="adar_fire" path="adar_sup.ogg"  prefix="suppressed_b"/>
+		<sound id="adar_fire" path="adar_sup.ogg"  prefix="suppressed_c"/>
+	</Sounds>
 </table>

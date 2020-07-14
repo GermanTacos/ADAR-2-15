@@ -4,7 +4,7 @@
 	
 	<GlobalValue id="adar" color="Color(1, 0.522, 0.106)"/>
 	
-	<AssetUpdates id="26237" version="1.01" provider="modworkshop"/>
+	<AssetUpdates id="26237" version="1.02" provider="modworkshop"/>
 	
 	<XML path="add.xml"/>
 	<XML path="sound.xml"/>
